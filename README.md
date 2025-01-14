@@ -10,7 +10,7 @@
   * OpenCV.
   * Sklearn.
   * LightGBM.
-  * Spotipy.
+  * Spotify API.
   * Tkinter.
   * Pillow.
 
